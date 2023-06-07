@@ -1,0 +1,4 @@
+#Функция вычитающая num2 из num1
+def minus(num1, num2):
+    result = num1 - num2
+    return result
